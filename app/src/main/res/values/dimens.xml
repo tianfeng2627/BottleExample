@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="homepage_bottle_width">182dp</dimen>
+    <dimen name="homepage_bottle_heigh">320dp</dimen>
+    <dimen name="homepage_bottle_width_pad">280dp</dimen>
+    <dimen name="homepage_bottle_heigh_pad">480dp</dimen>
+    <dimen name="homepage_bottle_max_amp">15dp</dimen>
+    <dimen name="homepage_bottle_fullline">40dp</dimen>
+    <dimen name="homepage_halfscreen">160dp</dimen>
+    <dimen name="homepage_textsize_title">18sp</dimen>
+    <dimen name="homepage_textsize">45sp</dimen>
+    <dimen name="homepage_bottle_margin_top">60dp</dimen>
+</resources>

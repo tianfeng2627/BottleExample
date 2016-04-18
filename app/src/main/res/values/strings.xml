@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="homepage_water_no">未校准</string>
+</resources>
